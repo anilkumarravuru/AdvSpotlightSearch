@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Advanced Spotlight Search</string>
+    <string name="startup_display_string">Welcome to New Spotlight</string>
+    <string name="search_default_string">String to Search</string>
+    <string name="search_button_string">Normal Search</string>
+    <string name="parallel_search_button_string">Parallel Search</string>
+    <string name="result_summary_string">Result Summary</string>
+    <string name="search_result_string">Search Results</string>
+
+</resources>
